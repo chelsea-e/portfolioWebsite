@@ -1,0 +1,43 @@
+body{
+    height: 90vh;
+    display: flex;
+    font-family: 'Inter', system-ui, sans-serif;
+    font-size: 1.2em;
+    font-weight: 100;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+    padding: 0px 15px;
+}
+
+h1{
+    margin: 20px 1rem 1.5rem 1rem;
+    font-weight: 200;
+}
+
+.link{
+    list-style: none;
+    position: fixed;
+    margin: 0px 20px;
+    width: 40%;
+    height: 100vh;
+    text-align: center;
+    padding: 0 15px;
+    display: flex;
+    flex-direction: inherit;
+    justify-content: space-evenly;
+}
+
+li{
+    text-decoration: underline;
+    font-size: 1.0rem;
+}
+
+a{
+    color: #000;
+}
+
+a:hover{
+    color: #fa1515;
+}
