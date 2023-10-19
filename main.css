@@ -19,7 +19,7 @@ h1{
 .link{
     list-style: none;
     position: fixed;
-    margin: 0px 20px;
+    margin-left: 200px;
     width: 40%;
     height: 100vh;
     text-align: center;
